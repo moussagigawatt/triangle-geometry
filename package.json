@@ -1,6 +1,6 @@
 {
   "name": "triangle-geometry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Triangle Geometry is an all in one package that calculates triangle centers and some vectorial operations.",
   "main": "index.js",
   "directories": {
