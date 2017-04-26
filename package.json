@@ -1,7 +1,7 @@
 {
   "name": "triangle-geometry",
-  "version": "1.0.1",
-  "description": "Triangle Geometry is an all in one package to calculate triangle centers (orthocenter, circumcenter,incenter,centroid) and some vectorial operations",
+  "version": "1.0.2",
+  "description": "Triangle Geometry is an all in one package that calculates triangle centers and some vectorial operations.",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moussagigawatt/triangle-geometry.git"
+    "url": "git+https://github.com/moussagigawatt/triangle-geometry.git"
   },
   "keywords": [
     "triangle",
     "center",
-    "geometry",
-    "vector"
+    "vector",
+    "geometry"
   ],
-  "author": "Akrem Hadji <akremgegawatt@gmail.com>",
+  "author": "Akrem Hadji",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/moussagigawatt/triangle-geometry/issues"
