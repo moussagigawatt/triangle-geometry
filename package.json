@@ -1,0 +1,28 @@
+{
+  "name": "triangle-vector-geometry",
+  "version": "1.0.0",
+  "description": "Determine triangle geometry centers and some vectorial operations.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moussagigawatt/triangle-vector-geometry.git"
+  },
+  "keywords": [
+    "triangle",
+    "vector",
+    "center",
+    "geometry"
+  ],
+  "author": "Akrem Hadji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moussagigawatt/triangle-vector-geometry/issues"
+  },
+  "homepage": "https://github.com/moussagigawatt/triangle-vector-geometry#readme"
+}
