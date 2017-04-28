@@ -4,11 +4,11 @@ The package works on 2D orthonormal coordinate system.
 
 ## Install
 ```sh
-npm install triangle-geometry
+npm install triangle-vector-geometry
 ```
 ## API
 ```sh
-var geometry = require('triangle-geometry');
+var geometry = require('triangle-vector-geometry');
 ```
 ### geometry.isTriangle(point_A,point_B,point_C)
 
