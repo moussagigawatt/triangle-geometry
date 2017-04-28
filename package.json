@@ -1,6 +1,6 @@
 {
   "name": "triangle-vector-geometry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine triangle geometry centers and some vectorial operations.",
   "main": "index.js",
   "directories": {
